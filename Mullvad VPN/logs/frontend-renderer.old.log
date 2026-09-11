@@ -1,18 +1,12 @@
-[2025-12-20 22:50:43.199][info] setAccountExpiry(2026-01-09T16:01:15.000Z) called at 2025-12-20T21:50:43.199Z
-[2025-12-20 22:50:43.201][verbose] Tunnel state: disconnected
-[2025-12-20 22:50:43.273][verbose] Map canvas scale factor: 1, using: 1
-[2025-12-20 22:51:07.421][verbose] Map canvas scale factor: 1, using: 1
-[2025-12-20 22:51:09.351][verbose] Tunnel state: connecting
-[2025-12-20 22:51:09.500][verbose] Tunnel state: connecting
-[2025-12-20 22:51:10.119][verbose] Tunnel state: connected
-[2025-12-20 22:51:10.352][verbose] Tunnel state: connected
-[2025-12-20 23:30:01.364][verbose] Tunnel state: error
-[2025-12-20 23:30:01.393][verbose] Tunnel state: error
-[2025-12-20 23:30:01.566][verbose] Map canvas scale factor: 1, using: 1
-[2025-12-20 23:30:04.151][verbose] Tunnel state: connecting
-[2025-12-20 23:30:04.162][verbose] Tunnel state: connecting
-[2025-12-20 23:30:04.745][verbose] Tunnel state: connected
-[2025-12-20 23:30:04.774][verbose] Tunnel state: connected
-[2025-12-20 23:30:05.107][verbose] Tunnel state: connected
-[2025-12-20 23:30:05.134][verbose] Tunnel state: connected
-[2025-12-20 23:30:09.719][info] setAccountExpiry(2026-01-09T16:01:15.000Z) called at 2025-12-20T22:30:09.719Z
+[2026-09-04 20:35:52.308][info] setAccountExpiry(2026-09-07T12:56:15.000Z) called at 2026-09-04T18:35:52.308Z
+[2026-09-04 20:35:52.309][verbose] Tunnel state: connecting
+[2026-09-04 20:35:52.309][verbose] Initial: Wrong content height: 597, expected 568
+[2026-09-04 20:35:52.312][verbose] Resize: Wrong content height: 597, expected 568
+[2026-09-04 20:35:52.370][verbose] Map canvas scale factor: 1, using: 1
+[2026-09-04 20:35:52.430][verbose] Tunnel state: connected
+[2026-09-04 20:35:53.412][verbose] Tunnel state: connected
+[2026-09-04 20:59:03.005][verbose] Tunnel state: disconnecting
+[2026-09-04 20:59:03.019][verbose] Tunnel state: disconnecting
+[2026-09-04 20:59:03.118][verbose] Tunnel state: disconnected
+[2026-09-04 20:59:03.402][verbose] Tunnel state: disconnected
+[2026-09-04 20:59:03.901][info] setAccountExpiry(2026-09-07T12:56:15.000Z) called at 2026-09-04T18:59:03.901Z

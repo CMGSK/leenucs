@@ -1,3 +1,0 @@
-#!/bin/sh
-unset NODE_OPTIONS
-ELECTRON_RUN_AS_NODE=1 "/nix/store/r6qbsj1ls56wy0pqivl6p4h097jl34zd-vscode-1.107.0/lib/vscode/code" "/home/aria/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/copilotCLIShim.js" "$@"

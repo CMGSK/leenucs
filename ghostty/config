@@ -48,3 +48,6 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 theme = noctalia
+
+window-padding-y = 10
+window-padding-x = 10

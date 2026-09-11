@@ -1,0 +1,56 @@
+{
+	"encryptedPasskey": "$01:7f4a2963085c472b84c1b92e6662987abae701e9fa7e8f76313356f924a1047fa2269c627ca678a8a3efc5a34b264b80e767de7810da1e765abc623ff1b4cbec2c8adfee7f6b0b04ba906757d2e4b749",
+	"cookies": {
+		"portal.casa47.es": [
+			{
+				"key": "WebPageCaching",
+				"value": "$01:83ddb501e3d2206fa1ac6f624d8f52a5",
+				"expires": "2026-09-08T00:00:00.000Z",
+				"domain": "portal.casa47.es",
+				"path": "/",
+				"secure": true,
+				"httpOnly": true,
+				"hostOnly": true,
+				"creation": "2026-09-07T15:46:46.665Z",
+				"lastAccessed": "2026-09-07T15:47:14.639Z",
+				"sameSite": "lax"
+			},
+			{
+				"key": "Dynamics365PortalAnalytics",
+				"value": "$01:9d432c31bcbdd43305d54fd0917f60af3ae578eefb00b8afc19f73535134b38714b96378c1d20febfb12b3bcc9444d08a0af3a731fa518cb3c98e93b9a8a958c510d4fd22f285a6feee83655d86f55e4fb211fc783d5c0ea20f0f9905517a664867c87fd4314f0dca7a69092094696977166996dc87d4d8cc90b99e4755768f4f6a827869575cff7435f480e908de23a6a542b11de950ce35e8ec0d5cb38c86a",
+				"expires": "2026-12-06T15:46:46.000Z",
+				"domain": "portal.casa47.es",
+				"path": "/",
+				"secure": true,
+				"httpOnly": true,
+				"hostOnly": true,
+				"creation": "2026-09-07T15:46:46.666Z",
+				"lastAccessed": "2026-09-07T15:47:14.639Z",
+				"sameSite": "lax"
+			},
+			{
+				"key": "ARRAffinity",
+				"value": "$01:4c0c1f1cf1290b2ba87a5fe33cd8e1db32c9400ed960b7c1e668cc30c07298d7875443c7edb5f96684c59ab5dcf0f1d84ac07456ee27a4292200c9ff471ec15fb3cdac90263e458b0646ee35f9a83669",
+				"domain": "portal.casa47.es",
+				"path": "/",
+				"secure": true,
+				"httpOnly": true,
+				"hostOnly": false,
+				"creation": "2026-09-07T15:46:46.666Z",
+				"lastAccessed": "2026-09-07T15:47:14.639Z"
+			},
+			{
+				"key": "ARRAffinitySameSite",
+				"value": "$01:4c0c1f1cf1290b2ba87a5fe33cd8e1db32c9400ed960b7c1e668cc30c07298d7875443c7edb5f96684c59ab5dcf0f1d84ac07456ee27a4292200c9ff471ec15fb3cdac90263e458b0646ee35f9a83669",
+				"domain": "portal.casa47.es",
+				"path": "/",
+				"secure": true,
+				"httpOnly": true,
+				"hostOnly": false,
+				"creation": "2026-09-07T15:46:46.666Z",
+				"lastAccessed": "2026-09-07T15:47:14.639Z",
+				"sameSite": "none"
+			}
+		]
+	}
+}

@@ -1,7 +1,13 @@
-[2025-12-21 00:32:33.759][info] setAccountExpiry(2026-01-09T16:01:15.000Z) called at 2025-12-20T23:32:33.758Z
-[2025-12-21 00:32:33.760][verbose] Tunnel state: connected
-[2025-12-21 00:32:33.831][verbose] Map canvas scale factor: 1, using: 1
-[2025-12-21 00:32:36.181][verbose] Tunnel state: disconnecting
-[2025-12-21 00:32:36.303][verbose] Tunnel state: disconnecting
-[2025-12-21 00:32:36.438][verbose] Tunnel state: disconnected
-[2025-12-21 00:32:36.803][verbose] Tunnel state: disconnected
+[2026-09-06 17:25:15.518][info] setAccountExpiry(2026-09-07T12:56:15.000Z) called at 2026-09-06T15:25:15.518Z
+[2026-09-06 17:25:15.520][verbose] Tunnel state: connecting
+[2026-09-06 17:25:15.520][verbose] Initial: Wrong content height: 597, expected 568
+[2026-09-06 17:25:15.523][verbose] Resize: Wrong content height: 597, expected 568
+[2026-09-06 17:25:15.582][verbose] Map canvas scale factor: 1, using: 1
+[2026-09-06 17:25:15.738][verbose] Tunnel state: connected
+[2026-09-06 17:25:16.993][verbose] Tunnel state: connected
+[2026-09-06 19:07:06.177][verbose] Tunnel state: disconnecting
+[2026-09-06 19:07:06.198][verbose] Tunnel state: disconnecting
+[2026-09-06 19:07:06.282][verbose] Tunnel state: disconnected
+[2026-09-06 19:07:06.626][verbose] Tunnel state: disconnected
+[2026-09-06 19:07:15.135][info] setAccountExpiry(2026-09-07T12:56:15.000Z) called at 2026-09-06T17:07:15.135Z
+[2026-09-06 19:46:04.346][info] setAccountExpiry(2026-09-07T12:56:15.000Z) called at 2026-09-06T17:46:04.346Z

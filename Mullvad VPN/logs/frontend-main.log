@@ -1,12 +1,25 @@
-[2025-12-21 00:32:32.201][verbose] Chromium sandbox is enabled
-[2025-12-21 00:32:32.203][info] Running version 2025.13
-[2025-12-21 00:32:32.312][info] Detected locale: en-US
-[2025-12-21 00:32:32.485][error] Error while retrieving theme {"code":127,"killed":false,"signal":null,"cmd":"gsettings get org.gnome.desktop.interface icon-theme"}
-[2025-12-21 00:32:32.494][info] Verified socket ownership
-[2025-12-21 00:32:32.494][info] Connected to the daemon
-[2025-12-21 00:32:32.612][info] Autoconnect the tunnel
-[2025-12-21 00:32:33.705][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/aria/.config/autostart/mullvad-vpn.desktop'
-[2025-12-21 00:34:56.615][verbose] GRPC Channel connectivity state changed to 0
-[2025-12-21 00:34:56.616][info] Disconnected from the daemon
-[2025-12-21 00:34:56.623][info] before-quit received
-[2025-12-21 00:34:56.624][info] Quit initiated
+[2026-09-06 17:25:14.302][verbose] Chromium sandbox is enabled
+[2026-09-06 17:25:14.303][info] Running version 2026.4
+[2026-09-06 17:25:14.421][info] Detected locale: en-US
+[2026-09-06 17:25:14.497][info] Verified socket ownership
+[2026-09-06 17:25:14.497][info] Verified socket ownership
+[2026-09-06 17:25:14.497][info] Connected to the daemon
+[2026-09-06 17:25:14.629][info] Autoconnect the tunnel
+[2026-09-06 17:25:15.005][info] Showing notification icon: "Account credit expires in less than a day. Buy more credit."
+[2026-09-06 17:25:15.492][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/miku/.config/autostart/mullvad-vpn.desktop'
+[2026-09-06 18:25:14.501][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-06 18:25:14.502][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-06 19:07:06.192][warning] Failed to fetch account data. Retrying in 8000 ms
+[2026-09-06 19:25:14.502][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-06 19:25:14.502][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-06 20:25:14.502][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-06 20:25:14.503][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-06 21:25:14.503][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-06 21:25:14.503][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-06 22:25:14.503][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-06 22:25:14.503][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-06 22:39:25.762][verbose] GRPC Channel connectivity state changed to 0
+[2026-09-06 22:39:25.765][info] Disconnected from the daemon
+[2026-09-06 22:39:25.765][verbose] GRPC Channel connectivity state changed to 0
+[2026-09-06 22:39:25.769][info] before-quit received
+[2026-09-06 22:39:25.769][info] Quit initiated

@@ -1,23 +1,17 @@
-[2025-12-20 22:50:41.426][verbose] Chromium sandbox is enabled
-[2025-12-20 22:50:41.428][info] Running version 2025.13
-[2025-12-20 22:50:41.562][info] Detected locale: en-US
-[2025-12-20 22:50:41.715][error] Error while retrieving theme {"code":127,"killed":false,"signal":null,"cmd":"gsettings get org.gnome.desktop.interface icon-theme"}
-[2025-12-20 22:50:41.725][info] Verified socket ownership
-[2025-12-20 22:50:41.725][info] Connected to the daemon
-[2025-12-20 22:50:41.852][info] Skip autoconnect because GUI setting is disabled
-[2025-12-20 22:50:43.151][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/aria/.config/autostart/mullvad-vpn.desktop'
-[2025-12-20 22:51:00.732][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/aria/.config/autostart/mullvad-vpn.desktop'
-[2025-12-20 23:29:39.417][info] Suspend event received, disconnecting from daemon
-[2025-12-20 23:29:39.419][verbose] GRPC Channel connectivity state changed to 4
-[2025-12-20 23:29:39.420][info] Disconnected from the daemon
-[2025-12-20 23:29:39.422][info] Suspend event received, disconnecting from daemon
-[2025-12-20 23:29:39.422][info] Disconnected from the daemon
-[2025-12-20 23:30:01.340][info] Resume event received, connecting to daemon
-[2025-12-20 23:30:01.342][info] Resume event received, connecting to daemon
-[2025-12-20 23:30:01.343][info] Verified socket ownership
-[2025-12-20 23:30:01.344][info] Connected to the daemon
-[2025-12-20 23:30:01.346][info] Verified socket ownership
-[2025-12-20 23:30:01.346][info] Connected to the daemon
-[2025-12-20 23:30:01.405][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
-[2025-12-20 23:30:01.406][warning] Failed to fetch account data. Retrying in 8000 ms
-[2025-12-20 23:30:01.406][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2026-09-04 20:35:51.104][verbose] Chromium sandbox is enabled
+[2026-09-04 20:35:51.105][info] Running version 2026.4
+[2026-09-04 20:35:51.226][info] Detected locale: en-US
+[2026-09-04 20:35:51.299][info] Verified socket ownership
+[2026-09-04 20:35:51.299][info] Verified socket ownership
+[2026-09-04 20:35:51.299][info] Connected to the daemon
+[2026-09-04 20:35:51.426][info] Autoconnect the tunnel
+[2026-09-04 20:35:51.804][info] Showing notification icon: "Account credit expires in 2 days. Buy more credit."
+[2026-09-04 20:35:52.281][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/miku/.config/autostart/mullvad-vpn.desktop'
+[2026-09-04 20:59:03.012][warning] Failed to fetch account data. Retrying in 8000 ms
+[2026-09-04 21:35:51.301][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-04 21:35:51.302][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-04 22:35:51.302][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-04 22:35:51.302][verbose] GRPC Channel connectivity state changed to 2
+[2026-09-04 23:17:09.428][verbose] GRPC Channel connectivity state changed to 0
+[2026-09-04 23:17:09.429][info] Disconnected from the daemon
+[2026-09-04 23:17:09.429][verbose] GRPC Channel connectivity state changed to 0

@@ -1,0 +1,14 @@
+opencollection: 1.0.0
+info:
+  name: "My Workspace"
+  type: workspace
+
+collections:
+  - name: "Sample API Collection"
+    path: "/home/miku/Sample API Collection"
+  - name: "Untitled Collection"
+    path: "/home/miku/Documents/bruno/Untitled Collection"
+
+specs:
+
+docs: ''

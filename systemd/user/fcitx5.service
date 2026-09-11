@@ -1,0 +1,15 @@
+[Unit]
+Description=Fcitx5 Input Method Framework
+After=graphical-session-pre.target
+PartOf=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/fcitx5
+Restart=on-failure
+RestartSec=2
+Environment="WAYLAND_DISPLAY=wayland-0"
+Environment="QT_QPA_PLATFORM=wayland"
+
+[Install]
+WantedBy=graphical-session.target

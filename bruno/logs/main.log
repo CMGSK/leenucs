@@ -1,0 +1,17 @@
+[2026-05-02 19:44:35.367] [info]  AutoUpdater configured for linux x64 (using latest.yml)
+[2026-05-02 19:44:35.368] [info]  Checking for update
+[2026-05-02 19:44:35.413] [info]  Generated new staging user ID: 7c255282-a614-577f-ac18-c8c9267963da
+[2026-05-02 19:44:36.914] [info]  Update for version 3.3.0 is not available (latest version: 3.3.0, downgrade is disallowed).
+[2026-06-14 15:34:51.771] [info]  AutoUpdater configured for linux x64 (using latest.yml)
+[2026-06-14 15:34:51.777] [info]  Checking for update
+[2026-06-14 15:34:52.497] [info]  Update for version 3.4.2 is not available (latest version: 3.4.2, downgrade is disallowed).
+[2026-06-19 19:26:32.688] [info]  AutoUpdater configured for linux x64 (using latest.yml)
+[2026-06-19 19:26:32.701] [info]  Checking for update
+[2026-06-19 19:26:34.395] [info]  Update for version 3.4.2 is not available (latest version: 3.4.2, downgrade is disallowed).
+[2026-09-07 17:43:57.332] [info]  AutoUpdater configured for linux x64 (using latest.yml)
+[2026-09-07 17:43:57.337] [info]  Checking for update
+[2026-09-07 17:43:58.088] [info]  Found version 4.1.0 (url: bruno_4.1.0_x86_64_linux.AppImage, bruno_4.1.0_amd64_linux.deb, bruno_4.1.0_x86_64_linux.rpm)
+[2026-09-07 17:43:58.089] [info]  Update to 4.1.0 available, download will start
+[2026-09-07 17:43:58.089] [info]  Downloading update from bruno_4.1.0_x86_64_linux.AppImage, bruno_4.1.0_amd64_linux.deb, bruno_4.1.0_x86_64_linux.rpm
+[2026-09-07 17:43:59.919] [info]  New version 4.1.0 has been downloaded to /home/miku/.cache/bruno-updater/pending/bruno_4.1.0_amd64_linux.deb
+[2026-09-07 17:43:59.920] [info]  Update to 4.1.0 downloaded

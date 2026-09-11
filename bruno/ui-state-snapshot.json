@@ -1,0 +1,93 @@
+{
+	"version": "0.0.1",
+	"activeWorkspacePath": "/home/miku/.config/bruno/default-workspace",
+	"extras": {
+		"devTools": {
+			"open": false,
+			"activeTab": "terminal",
+			"tabs": {}
+		}
+	},
+	"workspaces": [
+		{
+			"pathname": "/home/miku/.config/bruno/default-workspace",
+			"environment": "",
+			"lastActiveCollectionPathname": "/home/miku/Documents/bruno/Untitled Collection",
+			"activeWorkspaceTabType": null,
+			"sorting": "default",
+			"collections": [
+				"/home/miku/Sample API Collection",
+				"/home/miku/Documents/bruno/Untitled Collection"
+			]
+		}
+	],
+	"collections": [
+		{
+			"pathname": "/home/miku/Sample API Collection",
+			"workspacePathname": "/home/miku/.config/bruno/default-workspace",
+			"environment": {
+				"collection": "",
+				"global": ""
+			},
+			"environmentPath": "",
+			"selectedEnvironment": "",
+			"isOpen": false,
+			"isMounted": false,
+			"activeTab": null,
+			"tabs": [
+				{
+					"type": "http-request",
+					"accessor": "pathname",
+					"permanent": false,
+					"pathname": "/home/miku/Sample API Collection/retard.bru",
+					"name": "retard",
+					"request": {
+						"tab": "body",
+						"width": null,
+						"height": null
+					},
+					"response": {
+						"tab": "response",
+						"format": null,
+						"viewTab": null
+					}
+				}
+			]
+		},
+		{
+			"pathname": "/home/miku/Documents/bruno/Untitled Collection",
+			"workspacePathname": "/home/miku/.config/bruno/default-workspace",
+			"environment": {
+				"collection": "",
+				"global": ""
+			},
+			"environmentPath": "",
+			"selectedEnvironment": "",
+			"isOpen": true,
+			"isMounted": true,
+			"activeTab": {
+				"accessor": "pathname",
+				"value": "/home/miku/Documents/bruno/Untitled Collection/Untitled 1.yml"
+			},
+			"tabs": [
+				{
+					"type": "http-request",
+					"accessor": "pathname",
+					"permanent": true,
+					"pathname": "/home/miku/Documents/bruno/Untitled Collection/Untitled 1.yml",
+					"name": "Untitled 1",
+					"request": {
+						"tab": "params",
+						"width": 531,
+						"height": null
+					},
+					"response": {
+						"tab": "response",
+						"format": "html",
+						"viewTab": "preview"
+					}
+				}
+			]
+		}
+	]
+}

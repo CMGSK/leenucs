@@ -1,0 +1,16 @@
+{
+	"collections": [
+		{
+			"path": "/home/miku/Sample API Collection",
+			"securityConfig": {
+				"jsSandboxMode": "safe"
+			}
+		},
+		{
+			"path": "/home/miku/Documents/bruno/Untitled Collection",
+			"securityConfig": {
+				"jsSandboxMode": "safe"
+			}
+		}
+	]
+}

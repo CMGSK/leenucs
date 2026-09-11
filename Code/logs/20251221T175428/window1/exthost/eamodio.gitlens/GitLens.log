@@ -1,8 +1,0 @@
-2025-12-21 17:55:58.520 [info] GitLens v17.8.1 activating in Visual Studio Code (1.107.0) on the desktop; mode=production, language='en', logLevel='warn', defaultDateLocale='null' (vscode|e876119199dd1dbc28099dc7a23e424a7fc70acd0e3876aa340d0818b1b5b2bb|5344d238-36c8-4cfd-8d6c-1959cecd00fa1766336069645)
-To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
-
-2025-12-21 17:56:01.049 [info] [2025-12-21 16:56:00.729] Failed to delete CLI proxy README: EntryNotFound (FileSystemError): Unable to delete nonexistent file 'vscode-userdata:/home/aria/.config/Code/User/globalStorage/eamodio.gitlens/README.md'
-
-2025-12-21 17:58:02.953 [info] GitLens v17.8.1 activating in Visual Studio Code (1.107.0) on the desktop; mode=production, language='en', logLevel='warn', defaultDateLocale='null' (vscode|e876119199dd1dbc28099dc7a23e424a7fc70acd0e3876aa340d0818b1b5b2bb|763839cd-880f-44a5-b89f-d1b6736f54dd1766336280929)
-To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
-

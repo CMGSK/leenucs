@@ -1,0 +1,279 @@
+[    0,0051] Loaded translation file for language en-US
+[    0,0144] PCSX2 v2.7.273
+[    0,0144] Savestate version: 0x9a590000
+[    0,0144] 
+[    0,0144] 
+[    0,0144] Host Machine Init:
+[    0,0144]   Operating System = CachyOS Linux rolling
+[    0,0144]   Available RAM    = 22996 MB (22.46 GB)
+[    0,0144]   Physical RAM     = 31966 MB (31.22 GB)
+[    0,0144] 
+[    0,0144]   Processor        = AMD Ryzen 5 5600 6-Core
+[    0,0144]   Core Count       = 12 cores
+[    0,0145]   Thread Count     = 12 threads
+[    0,0145]   Cluster Count    = 1 clusters
+[    0,0145] CPU Extensions Detected:
+[    0,0145]   AVX AVX2
+[    0,0145] 
+[    0,0159] SDLInputSource: Using Controller DB from resources.
+[    0,0888] SDLInputSource: 728 gamepad mappings are loaded.
+[  103,4806] BIOS Directory: /home/miku/.config/PCSX2/bios
+[  103,4806] Snapshots Directory: /home/miku/.config/PCSX2/snaps
+[  103,4806] Savestates Directory: /home/miku/.config/PCSX2/sstates
+[  103,4806] MemoryCards Directory: /home/miku/.config/PCSX2/memcards
+[  103,4806] Logs Directory: /home/miku/.config/PCSX2/logs
+[  103,4806] Cheats Directory: /home/miku/.config/PCSX2/cheats
+[  103,4806] Patches Directory: /home/miku/.config/PCSX2/patches
+[  103,4806] Covers Directory: /home/miku/.config/PCSX2/covers
+[  103,4806] Game Settings Directory: /home/miku/.config/PCSX2/gamesettings
+[  103,4806] Resources Directory: /opt/pcsx2/usr/bin/resources
+[  103,4807] User Resources Directory: /home/miku/.config/PCSX2/resources
+[  103,4807] Cache Directory: /home/miku/.config/PCSX2/cache
+[  103,4807] Textures Directory: /home/miku/.config/PCSX2/textures
+[  103,4807] Input Profile Directory: /home/miku/.config/PCSX2/inputprofiles
+[  103,4807] Video Dumping Directory: /home/miku/.config/PCSX2/videos
+[  103,4807] Debugger Layouts Directory: /home/miku/.config/PCSX2/inis/debuggerlayouts
+[  103,4807] Debugger Settings Directory: /home/miku/.config/PCSX2/inis/debuggersettings
+[  145,1823] BIOS Found: Japan   v01.00(17/01/2000)  Console 20000117-050310
+[  145,1824] BIOS Found: Europe  v01.60(04/10/2001)  Console 20011004-175839
+[  145,1826] BIOS Found: USA     v01.60(07/02/2002)  Console 20020207-164243
+[  145,1848] BIOS Found: Europe  v02.00(14/06/2004)  Console 20040614-100914
+[  166,7972] Applying settings...
+[  178,9556] Applying settings...
+[  182,9082] Applying settings...
+[  184,5283] Applying settings...
+[  211,1975] We're a tagged commit, but not running from an AppImage. Disabling automatic updater.
+[  368,3403] We're a tagged commit, but not running from an AppImage. Disabling automatic updater.
+[  368,3419] BIOS Found: Japan   v01.00(17/01/2000)  Console 20000117-050310
+[  368,3419] BIOS Found: Europe  v01.60(04/10/2001)  Console 20011004-175839
+[  368,3421] BIOS Found: USA     v01.60(07/02/2002)  Console 20020207-164243
+[  368,3443] BIOS Found: Europe  v02.00(14/06/2004)  Console 20040614-100914
+[  368,3672] Using Vulkan GPU 'AMD Radeon RX 9070 XT (RADV GFX1201)' for automatic renderer check.
+[  368,3672] Allowing Vulkan as default renderer.
+[  380,1421] Scanning /home/miku/Downloads/Drakengard (Europe) (EnFrDeEsIt) (recursively)
+[  380,1457] isoFile open ok: /home/miku/Downloads/Drakengard (Europe) (EnFrDeEsIt)/Drakengard (Europe) (En,Fr,De,Es,It).iso
+[  380,1458]   Image type  = DVD
+[  380,1458]  * CDVD Disk Open: DVD, Single layer or unknown:
+[  380,1458]  * * Track 1: Data (Mode 1) (2170432 sectors)
+[  380,1521] GameDB: Has not been initialized yet, initializing...
+[  380,1724] GameDB: 12838 games on record (loaded in 20,23ms)
+[  380,1724] Creating new game list cache file: '/home/miku/.config/PCSX2/cache/gamelist.cache'
+[  387,1096] Loading BIOS...
+[  387,1097] BIOS Found: Europe  v02.00(14/06/2004)  Console 20040614-100914
+[  387,1109] BIOS rom1 module not found, skipping...
+[  387,1109] BIOS rom2 module not found, skipping...
+[  387,1110] Failed to open or read MEC file at SCPH-70004_BIOS_V12_PAL_200.nvm: errno 2: No such file or directory, creating default.
+[  387,1110] Opening CDVD...
+[  387,1111] isoFile open ok: /home/miku/Downloads/Drakengard (Europe) (EnFrDeEsIt)/Drakengard (Europe) (En,Fr,De,Es,It).iso
+[  387,1111]   Image type  = DVD
+[  387,1111]  * CDVD Disk Open: DVD, Single layer or unknown:
+[  387,1111]  * * Track 1: Data (Mode 1) (2170432 sectors)
+[  387,1128] Disc changed to Drakengard (Europe) (En,Fr,De,Es,It).iso.
+[  387,1128]   Name: Drakengard
+[  387,1128]   Serial: SLES-52322
+[  387,1128]   Version: 1.00
+[  387,1128]   CRC: 79585776
+[  387,1128] Applying settings...
+[  387,1143] Reopening memory cards...
+[  387,1143] (FileMcd) Creating new 8MB memory card: /home/miku/.config/PCSX2/memcards/Mcd001.ps2
+[  387,1189] McdSlot 0 [File]: Mcd001.ps2 [8 MB, UNFORMATTED]
+[  387,1189] (FileMcd) Creating new 8MB memory card: /home/miku/.config/PCSX2/memcards/Mcd002.ps2
+[  387,1235] McdSlot 1 [File]: Mcd002.ps2 [8 MB, UNFORMATTED]
+[  387,1236] HLE Host: Set 'host:' root path to: /home/miku/Downloads/Drakengard (Europe) (EnFrDeEsIt)
+[  387,1236] 
+[  387,1236] EE/iR5900 Recompiler Reset
+[  387,2425] Opening GS...
+[  387,2450] Surface refresh rate: 164.834 hz
+[  387,2484] No GPU requested, using first (AMD Radeon RX 9070 XT (RADV GFX1201))
+[  387,2489] VK_EXT_provoking_vertex is supported
+[  387,2490] VK_EXT_memory_budget is supported
+[  387,2490] VK_EXT_calibrated_timestamps is supported
+[  387,2490] VK_EXT_rasterization_order_attachment_access is NOT supported
+[  387,2490] VK_KHR_swapchain_maintenance1 is supported
+[  387,2490] VK_EXT_full_screen_exclusive is NOT supported
+[  387,2490] VK_KHR_driver_properties is supported
+[  387,2490] VK_EXT_attachment_feedback_loop_layout is supported
+[  387,2497] Immediate not supported for vsync-disabled, using mailbox.
+[  387,7445] Vulkan Graphics Driver Info:
+[  387,7445] Driver 26.0.5
+[  387,7445] Vulkan 1.4.335
+[  387,7445] Conformance Version 1.4.0.0
+[  387,7445] Mesa 26.0.5-arch2.2
+[  387,7445] radv
+[  387,7445] AMD Radeon RX 9070 XT (RADV GFX1201)
+[  387,7451] Opening SPU2...
+[  387,7452] Creating Cubeb audio stream, sample rate = 48000, expansion = Disabled, buffer = 50, latency = 20, stretching enabled, driver = , device = 
+[  387,7477] Minimum latency is above requested latency: 1200 vs 960, adjusting to compensate.
+[  387,7550] Initializing Pad...
+[  387,7550] Initializing SIO2...
+[  387,7550] Initializing SIO0...
+[  387,7550] Opening DEV9...
+[  387,7560] Opening USB...
+[  387,7560] Opening FW...
+[  387,7587] VM subsystems initialized in 649,12 ms
+[  387,8982] ELF Loading: cdrom0:\SLES_523.22;1, Game CRC = 79585776, EntryPoint = 0x00120008
+[  390,1262] ELF cdrom0:\SLES_523.22;1 with entry point at 0x00120008 is executing.
+[  390,1263] ELF changed, active CRC 79585776 (cdrom0:\SLES_523.22;1)
+[  390,1264] Found 2 game patches in SLES-52322_79585776.pnach.
+[  390,1264] Applying core settings...
+[  390,1265] GameDB: Changing EE/FPU clamp mode [mode=3]
+[  390,1266] OSD [HWBlendingWarning]:  Current Blending Accuracy is Basic.
+[  390,1266] Recommended Blending Accuracy for this game is Medium.
+[  390,1266] You can adjust the blending level in Game Properties to improve
+[  390,1266] graphical quality, but this will increase system requirements.
+[  390,1266] GameDB: Enabled GS Hardware Fix: recommendedBlendingLevel to [mode=2]
+[  390,1266] GameDB: Enabled GS Hardware Fix: texturePreloading to [mode=1]
+[  390,1266] GameDB: Enabled GS Hardware Fix: mergeSprite to [mode=1]
+[  390,1266] GameDB: Enabled GS Hardware Fix: PCRTCOverscan to [mode=1]
+[  390,1266] GameDB: Enabled GS Hardware Fix: textureInsideRT to [mode=1]
+[  390,1266] GameDB: Enabled GS Hardware Fix: halfPixelOffset to [mode=2]
+[  390,1266] Updating CPU configuration...
+[  390,1309] Updating GS configuration...
+[  390,1521] EE/iR5900 Recompiler Reset
+[  391,0266] UpdateVSyncRate: Mode Changed to PAL.
+[  391,0267] UpdateVSyncRate: Mode Changed to PAL.
+[  391,7659] Pad: DS2 Config Finished - P1/S1 - AL: Off - AB: Usable - VS: Disabled - VL: Disabled - RB: D (0x00000000)
+[  391,9258] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Disabled - VL: Disabled - RB: D (0x00000000)
+[  392,1658] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Normal - VL: Normal - RB: D (0x00000000)
+[  392,2859] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Normal - VL: Normal - RB: D (0x00000000)
+[  392,6261] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Normal - VL: Normal - RB: D+A+P (0x0003FFFF)
+[  392,8658] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Normal - VL: Normal - RB: D+A+P (0x0003FFFF)
+[  415,0658] UpdateVSyncRate: Mode Changed to PAL.
+[  415,0659] UpdateVSyncRate: Mode Changed to PAL.
+[  433,0060] BIOS Found: Europe  v02.00(14/06/2004)  Console 20040614-100914
+[  433,0258] (VMManager) Pausing...
+[  484,0284] SDLInputSource: Gamepad 1 inserted
+[  484,0294] SDLInputSource: Opened gamepad 1 (instance id 1, player id 0): Xbox One Controller
+[  484,0294] SDLInputSource: Gamepad 0 has 6 axes and 11 buttons
+[  484,0294] SDLInputSource: Rumble is supported on 'Xbox One Controller' via gamepad
+[  484,0294] OSD [controller_connected_SDL-0]: Controller SDL-0 connected.
+[  498,6390] BIOS Found: Europe  v02.00(14/06/2004)  Console 20040614-100914
+[  504,7724] (VMManager) Resuming...
+[  523,7924] (VMManager) Pausing...
+[  529,3591] (VMManager) Resuming...
+[  613,9591] (VMManager) Pausing...
+[  614,9336] (VMManager) Resuming...
+[  616,4337] (VMManager) Pausing...
+[  617,9507] (VMManager) Resuming...
+[  702,6508] UpdateVSyncRate: Mode Changed to PAL.
+[  702,6508] UpdateVSyncRate: Mode Changed to PAL.
+[  721,2307] OSD [SaveStateSlot1]: Saving state to slot 1...
+[  721,2357] MTVU speedhack is enabled, saved states may not be stable
+[  721,2387]   Saving SPU2
+[  721,2390]   Saving GS
+[  721,3157] OSD [SaveStateSlot1]: Saved state to slot 1.
+[  741,5308] UpdateVSyncRate: Mode Changed to PAL.
+[  741,5308] UpdateVSyncRate: Mode Changed to PAL.
+[  742,8841] (MapController) Map Pad1/Up to 'SDL-0/DPadUp'
+[  742,8841] (MapController) Map Pad1/Right to 'SDL-0/DPadRight'
+[  742,8842] (MapController) Map Pad1/Down to 'SDL-0/DPadDown'
+[  742,8842] (MapController) Map Pad1/Left to 'SDL-0/DPadLeft'
+[  742,8842] (MapController) Map Pad1/Triangle to 'SDL-0/FaceNorth'
+[  742,8842] (MapController) Map Pad1/Circle to 'SDL-0/FaceEast'
+[  742,8842] (MapController) Map Pad1/Cross to 'SDL-0/FaceSouth'
+[  742,8842] (MapController) Map Pad1/Square to 'SDL-0/FaceWest'
+[  742,8842] (MapController) Map Pad1/Select to 'SDL-0/Back'
+[  742,8842] (MapController) Map Pad1/Start to 'SDL-0/Start'
+[  742,8842] (MapController) Map Pad1/L1 to 'SDL-0/LeftShoulder'
+[  742,8842] (MapController) Map Pad1/L2 to 'SDL-0/+LeftTrigger'
+[  742,8842] (MapController) Map Pad1/R1 to 'SDL-0/RightShoulder'
+[  742,8842] (MapController) Map Pad1/R2 to 'SDL-0/+RightTrigger'
+[  742,8842] (MapController) Map Pad1/L3 to 'SDL-0/LeftStick'
+[  742,8842] (MapController) Map Pad1/R3 to 'SDL-0/RightStick'
+[  742,8842] (MapController) Map Pad1/Analog to 'SDL-0/Guide'
+[  742,8842] (MapController) Map Pad1/LUp to 'SDL-0/-LeftY'
+[  742,8842] (MapController) Map Pad1/LRight to 'SDL-0/+LeftX'
+[  742,8843] (MapController) Map Pad1/LDown to 'SDL-0/+LeftY'
+[  742,8843] (MapController) Map Pad1/LLeft to 'SDL-0/-LeftX'
+[  742,8843] (MapController) Map Pad1/RUp to 'SDL-0/-RightY'
+[  742,8843] (MapController) Map Pad1/RRight to 'SDL-0/+RightX'
+[  742,8843] (MapController) Map Pad1/RDown to 'SDL-0/+RightY'
+[  742,8843] (MapController) Map Pad1/RLeft to 'SDL-0/-RightX'
+[  742,8843] (MapController) Map Pad1/LargeMotor to 'SDL-0/LargeMotor'
+[  742,8843] (MapController) Map Pad1/SmallMotor to 'SDL-0/SmallMotor'
+[  742,8843] (MapController) Map Pad1/SmallMotor to 'SDL-0/SmallMotor'
+[  742,8843] (MapController) Map Pad1/LargeMotor to 'SDL-0/LargeMotor'
+[  742,8907] Applying settings...
+[  742,8912] GameDB: Changing EE/FPU clamp mode [mode=3]
+[  742,8913] OSD [HWBlendingWarning]:  Current Blending Accuracy is Basic.
+[  742,8913] Recommended Blending Accuracy for this game is Medium.
+[  742,8913] You can adjust the blending level in Game Properties to improve
+[  742,8913] graphical quality, but this will increase system requirements.
+[  742,8913] GameDB: Enabled GS Hardware Fix: recommendedBlendingLevel to [mode=2]
+[  742,8913] GameDB: Enabled GS Hardware Fix: texturePreloading to [mode=1]
+[  742,8913] GameDB: Enabled GS Hardware Fix: mergeSprite to [mode=1]
+[  742,8913] GameDB: Enabled GS Hardware Fix: PCRTCOverscan to [mode=1]
+[  742,8913] GameDB: Enabled GS Hardware Fix: textureInsideRT to [mode=1]
+[  742,8913] GameDB: Enabled GS Hardware Fix: halfPixelOffset to [mode=2]
+[  742,8917] Creating Cubeb audio stream, sample rate = 48000, expansion = Disabled, buffer = 50, latency = 20, stretching enabled, driver = , device = 
+[  742,9009] Minimum latency is above requested latency: 1200 vs 960, adjusting to compensate.
+[  746,5908] UpdateVSyncRate: Mode Changed to PAL.
+[  746,5908] UpdateVSyncRate: Mode Changed to PAL.
+[  834,9142] (FileMcd) Warning: checksum sector overwritten. (0)
+[  834,9142] OSD [MemoryCardSave0]: Memory Card 'Mcd001.ps2' was saved to storage.
+[  835,5925] (FileMcd) Warning: checksum sector overwritten. (0)
+[  839,9143] OSD [MemoryCardSave0]: Memory Card 'Mcd001.ps2' was saved to storage.
+[  924,0107] UpdateVSyncRate: Mode Changed to PAL.
+[  924,0108] UpdateVSyncRate: Mode Changed to PAL.
+[ 1131,7906] UpdateVSyncRate: Mode Changed to PAL.
+[ 1131,7908] UpdateVSyncRate: Mode Changed to PAL.
+[ 1170,6708] UpdateVSyncRate: Mode Changed to PAL.
+[ 1170,6709] UpdateVSyncRate: Mode Changed to PAL.
+[ 1286,9707] UpdateVSyncRate: Mode Changed to PAL.
+[ 1286,9708] UpdateVSyncRate: Mode Changed to PAL.
+[ 1325,8507] UpdateVSyncRate: Mode Changed to PAL.
+[ 1325,8507] UpdateVSyncRate: Mode Changed to PAL.
+[ 1393,2708] UpdateVSyncRate: Mode Changed to PAL.
+[ 1393,2708] UpdateVSyncRate: Mode Changed to PAL.
+[ 1413,3884] Possible old value used in COP2 code. If the game is broken, please report to https://github.com/pcsx2/pcsx2.
+[ 1413,3884] 22c01c  4BE903BC vdiv Q, vf00w, vf09w
+[ 1413,3884] 22c020  3C0C4580 lui	t4, 0x4580
+[ 1413,3884] 22c024  48AC4000 qmtc2	t4, vf08
+[ 1413,3884] 22c028  4B880200 vaddx.xy vf08, vf00, vf08x
+[ 1413,3884] 22c02c  4BE3029A vmulz.xyzw vf10,vf00,vf03z
+[ 1413,3884] 22c030  4A0003BF vwaitq
+[ 1413,3884] 22c034  4BC04A5C vmulq.xyz vf09,vf09,Q
+[ 1413,3884] 22c038  4BEB497D vftoi4.xyzw vf11, vf09
+[ 1413,3885] 22c03c  0000102D daddu	v0, zero, zero
+[ 1413,3885] 22c040  48C28000 ctc2	v0, Status
+[ 1413,3885] 22c044  4B804D2C vsub.xy vf20, vf09, vf00
+[ 1413,3885] 22c048 *4B89452C vsub.xy vf20, vf08, vf09
+[ 1413,3885] 22c04c  48235800 qmfc2	v1, vf11
+[ 1413,3885] 22c050  704324A8 pextuw	a0, v0, v1
+[ 1413,3885] 22c054  704315C8 ppach	v0, v0, v1
+[ 1413,3885] 22c058  0004213A dsrl	a0,a0, 0x04
+[ 1413,3885] 22c05c  70822488 pextlw	a0, a0, v0
+[ 1413,3885] 22c060  FCC40000 sd	a0, 0x   0(a2)
+[ 1413,3885] 22c064 =48428000 cfc2	v0, Status
+[ 1413,3885] 22c068  304200C0 andi	v0,v0, 0x00C0
+[ 1413,3885] 22c06c  1440000A bne	v0, zero, ->$0x0022C098
+[ 1413,3885] 22c070  00000000 nop
+[ 1462,4308] UpdateVSyncRate: Mode Changed to PAL.
+[ 1462,4308] UpdateVSyncRate: Mode Changed to PAL.
+[ 1566,8907] UpdateVSyncRate: Mode Changed to PAL.
+[ 1566,8909] UpdateVSyncRate: Mode Changed to PAL.
+[ 2274,0322] OSD [MemoryCardSave0]: Memory Card 'Mcd001.ps2' was saved to storage.
+[ 2278,6506] UpdateVSyncRate: Mode Changed to PAL.
+[ 2278,6509] UpdateVSyncRate: Mode Changed to PAL.
+[ 2354,6707] UpdateVSyncRate: Mode Changed to PAL.
+[ 2354,6709] UpdateVSyncRate: Mode Changed to PAL.
+[ 2665,5322] OSD [MemoryCardSave0]: Memory Card 'Mcd001.ps2' was saved to storage.
+[ 2673,4907] UpdateVSyncRate: Mode Changed to PAL.
+[ 2673,4907] UpdateVSyncRate: Mode Changed to PAL.
+[ 2790,9507] UpdateVSyncRate: Mode Changed to PAL.
+[ 2790,9507] UpdateVSyncRate: Mode Changed to PAL.
+[ 3074,5525] Read Abort
+[ 3076,7722] Read Abort
+[ 3101,5935] OSD [MemoryCardSave0]: Memory Card 'Mcd001.ps2' was saved to storage.
+[ 3643,3730] OSD [MemoryCardSave0]: Memory Card 'Mcd001.ps2' was saved to storage.
+[ 4116,7354] OSD [MemoryCardSave0]: Memory Card 'Mcd001.ps2' was saved to storage.
+[ 4709,3540] OSD [MemoryCardSave0]: Memory Card 'Mcd001.ps2' was saved to storage.
+[ 4907,7905] UpdateVSyncRate: Mode Changed to PAL.
+[ 4907,7905] UpdateVSyncRate: Mode Changed to PAL.
+[ 4948,1704] UpdateVSyncRate: Mode Changed to PAL.
+[ 4948,1709] UpdateVSyncRate: Mode Changed to PAL.
+[ 4954,6519] OSD [MemoryCardSave0]: Memory Card 'Mcd001.ps2' was saved to storage.
+[ 5092,2305] (VMManager) Pausing...
+[ 5094,4575] Add 4625 seconds play time to SLES-52322 -> now 4625
+[ 5094,5698] Writing 487896 bytes to '/home/miku/.config/PCSX2/cache/vulkan_pipelines.bin'
+[ 5094,5894] Releasing host memory for virtual systems...

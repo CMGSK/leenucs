@@ -1,7 +1,0 @@
-2025-12-24 11:19:11.828 [info] GitLens v17.8.1 activating in Visual Studio Code (1.107.0) on the desktop; mode=production, language='en', logLevel='warn', defaultDateLocale='null' (vscode|e876119199dd1dbc28099dc7a23e424a7fc70acd0e3876aa340d0818b1b5b2bb|490ef529-6b46-4323-aff5-5fd22c91843c1766571545763)
-To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
-
-2025-12-24 11:26:03.377 [info] [2025-12-24 10:26:02.877] [GIT          ] [/home/aria/code/rust/rudocx] git rev-parse --verify --end-of-options 153ae93^{commit} • ABORTED after 17ms (cancellation)
-
-2025-12-24 11:27:22.714 [info] [2025-12-24 10:27:22.213] [GIT          ] [/home/aria/code/rust/rudocx] git rev-parse --verify --end-of-options 153ae93^{commit} • ABORTED after 19ms (cancellation)
-
