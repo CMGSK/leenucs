@@ -1,7 +1,7 @@
 {
     "name": "Untitled",
     "DesktopAudioDevice1": {
-        "prev_ver": 536936450,
+        "prev_ver": 537001986,
         "name": "Desktop Audio",
         "uuid": "f18d395f-86c4-492e-b9ec-4acdef769cca",
         "id": "pulse_output_capture",
@@ -12,7 +12,7 @@
         "mixers": 255,
         "sync": 0,
         "flags": 0,
-        "volume": 1.0,
+        "volume": 0.5069862008094788,
         "balance": 0.5,
         "enabled": true,
         "muted": false,
@@ -32,7 +32,7 @@
         "private_settings": {}
     },
     "AuxAudioDevice1": {
-        "prev_ver": 536936450,
+        "prev_ver": 537001986,
         "name": "Mic/Aux",
         "uuid": "69c8d7d6-624e-496e-a198-41c73555e360",
         "id": "pulse_input_capture",
@@ -64,7 +64,7 @@
     },
     "sources": [
         {
-            "prev_ver": 536936450,
+            "prev_ver": 537001986,
             "name": "Screen Capture (PipeWire)",
             "uuid": "c9f2627b-dcd0-43de-90ee-f57df86d89ee",
             "id": "pipewire-screen-capture-source",
@@ -90,7 +90,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 536936450,
+            "prev_ver": 537001986,
             "name": "Input Overlay",
             "uuid": "5e051cce-3682-4e90-bb08-97f7a7ba49bd",
             "id": "input-overlay",
@@ -119,7 +119,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 536936450,
+            "prev_ver": 537001986,
             "name": "Video Capture Device (V4L2)",
             "uuid": "f7f857c7-07de-4711-9bd3-1b5c63780621",
             "id": "v4l2_input",
@@ -147,7 +147,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 536936450,
+            "prev_ver": 537001986,
             "name": "Scene",
             "uuid": "9455d9e9-81c5-4afb-acef-c8dc6f05fefb",
             "id": "scene",
@@ -388,13 +388,9 @@
     "saved_projectors": [],
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": -11,
+    "scaling_level": -69,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
-    "virtual-camera": {
-        "type2": 1,
-        "scene": "Scene"
-    },
     "modules": {
         "scripts-tool": [],
         "output-timer": {

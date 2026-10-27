@@ -1,0 +1,193 @@
+09:00:20.996: Command Line Arguments: --startreplaybuffer --minimize-to-tray
+09:00:20.996: Platform: Wayland
+09:00:20.996: CPU Name: AMD Ryzen 5 5600 6-Core Processor
+09:00:20.996: CPU Speed: 4449.786MHz
+09:00:20.997: Physical Cores: 6, Logical Cores: 12
+09:00:20.997: Physical Memory: 31965MB Total, 24735MB Free
+09:00:20.997: Kernel Version: Linux 7.2.11-arch1-1
+09:00:20.997: Distribution: "CachyOS Linux" Unknown
+09:00:20.997: Desktop Environment: niri (niri)
+09:00:20.997: Session Type: wayland
+09:00:20.998: Current Date/Time: 2026-10-26, 09:00:20
+09:00:20.998: Browser Hardware Acceleration: true
+09:00:20.998: Qt Version: 6.12.0 (runtime), 6.11.1 (compiled)
+09:00:20.998: Portable mode: false
+09:00:21.039: OBS 32.2.2 (linux)
+09:00:21.039: ---------------------------------
+09:00:21.041: ---------------------------------
+09:00:21.041: audio settings reset:
+09:00:21.041: 	samples per sec: 48000
+09:00:21.041: 	speakers:        2
+09:00:21.041: 	max buffering:   960 milliseconds
+09:00:21.041: 	buffering type:  dynamically increasing
+09:00:21.044: ---------------------------------
+09:00:21.044: Initializing OpenGL...
+09:00:21.044: Using EGL/Wayland
+09:00:21.075: Initialized EGL 1.5
+09:00:21.087: Loading up OpenGL on adapter AMD AMD Radeon RX 9070 XT (radeonsi, gfx1201, ACO, DRM 3.64, 7.2.11-arch1-1)
+09:00:21.087: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.2.5-arch3.1, shading language 4.60
+09:00:21.120: ---------------------------------
+09:00:21.120: video settings reset:
+09:00:21.120: 	base resolution:   1920x1080
+09:00:21.120: 	output resolution: 1280x720
+09:00:21.120: 	downscale filter:  Bicubic
+09:00:21.120: 	fps:               30/1
+09:00:21.120: 	format:            NV12
+09:00:21.120: 	YUV mode:          sRGB/Partial
+09:00:21.120: NV12 texture support enabled
+09:00:21.120: P010 texture support not available
+09:00:21.124: Audio monitoring device:
+09:00:21.124: 	name: Default
+09:00:21.124: 	id: default
+09:00:21.134: ---------------------------------
+09:00:21.136: Failed to load 'en-US' text for module: 'decklink-captions.so'
+09:00:21.138: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+09:00:21.140: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+09:00:21.140: Failed to initialize module 'decklink.so'
+09:00:21.251: [input-overlay] Loading v5.0.6-HEAD (a2d856e) build time 2025.04.06 13:42
+09:00:21.251: DEPRECATION: obs_frontend_get_global_config is deprecated. Use obs_frontend_get_app_config or obs_frontend_get_user_config explicitly instead.
+09:00:21.252: [input-overlay] Initializing SDL2 for gamepad input (compile-time: 2.0.20, run-time:  2.32.74)
+09:00:21.276: [pipewire] Available capture sources:
+09:00:21.276: [pipewire]     - Monitor source
+09:00:21.276: [pipewire]     - Window source
+09:00:21.284: v4l2loopback not installed, virtual camera not registered
+09:00:21.322: VAAPI: API version 1.24
+09:00:21.322: FFmpeg VAAPI H264 encoding supported
+09:00:21.326: FFmpeg VAAPI AV1 encoding supported
+09:00:21.329: FFmpeg VAAPI HEVC encoding supported
+09:00:21.336: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+09:00:21.336: 
+09:00:21.336: NVENC not supported
+09:00:21.336: Failed to initialize module 'obs-nvenc.so'
+09:00:21.367: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.7.4 | RPC Version: 1)
+09:00:21.367: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.11.1 | Qt version (run-time): 6.12.0
+09:00:21.367: [obs-websocket] [obs_module_load] Linked ASIO Version: 103802
+09:00:21.375: [obs-websocket] [obs_module_load] Module loaded.
+09:00:21.387: ---------------------------------
+09:00:21.387:   Loaded Modules:
+09:00:21.387:     text-freetype2.so
+09:00:21.387:     rtmp-services.so
+09:00:21.387:     obs-x264.so
+09:00:21.387:     obs-websocket.so
+09:00:21.387:     obs-webrtc.so
+09:00:21.387:     obs-vst.so
+09:00:21.387:     obs-transitions.so
+09:00:21.387:     obs-qsv11.so
+09:00:21.387:     obs-outputs.so
+09:00:21.387:     obs-libfdk.so
+09:00:21.387:     obs-filters.so
+09:00:21.387:     obs-ffmpeg.so
+09:00:21.387:     linux-v4l2.so
+09:00:21.387:     linux-pulseaudio.so
+09:00:21.387:     linux-pipewire.so
+09:00:21.387:     linux-jack.so
+09:00:21.387:     linux-capture.so
+09:00:21.387:     linux-alsa.so
+09:00:21.387:     input-overlay.so
+09:00:21.387:     image-source.so
+09:00:21.387:     frontend-tools.so
+09:00:21.387:     decklink-output-ui.so
+09:00:21.387:     decklink-captions.so
+09:00:21.387: ---------------------------------
+09:00:21.387: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+09:00:21.388: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+09:00:21.388: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+09:00:21.388: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 192.168.1.191
+09:00:21.389: ---------------------------------
+09:00:21.389: Available Encoders:
+09:00:21.389:   Video Encoders:
+09:00:21.389: 	- ffmpeg_svt_av1 (SVT-AV1)
+09:00:21.389: 	- ffmpeg_aom_av1 (AOM AV1)
+09:00:21.389: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+09:00:21.389: 	- av1_ffmpeg_vaapi_tex (FFmpeg VAAPI AV1)
+09:00:21.389: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+09:00:21.389: 	- obs_x264 (x264)
+09:00:21.389:   Audio Encoders:
+09:00:21.389: 	- ffmpeg_aac (FFmpeg AAC)
+09:00:21.389: 	- ffmpeg_opus (FFmpeg Opus)
+09:00:21.389: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+09:00:21.389: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+09:00:21.389: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+09:00:21.389: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+09:00:21.389: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+09:00:21.389: 	- libfdk_aac (libfdk AAC)
+09:00:21.389: ==== Startup complete ===============================================
+09:00:21.415: QObject::connect: No such slot io_settings_dialog::RefreshUi()
+09:00:21.415: QObject::connect:  (receiver name: 'io_config_dialog')
+09:00:21.426: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+09:00:21.427: All scene data cleared
+09:00:21.427: ------------------------------------------------
+09:00:21.428: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+09:00:21.454: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+09:00:21.454: Deduplication logic is being applied to all monitored sources.
+09:00:21.454: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.10) 15.0.0'
+09:00:21.454: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+09:00:21.454: pulse-input: Started recording from 'alsa_output.usb-Focusrite_Scarlett_Solo_USB_Y7BAN85157F5AB-00.HiFi__Line__sink.monitor' (default)
+09:00:21.454: [Loaded global audio device]: 'Desktop Audio'
+09:00:21.454: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.10) 15.0.0'
+09:00:21.454: pulse-input: Audio format: float32le, 48000 Hz, 1 channels
+09:00:21.454: pulse-input: Started recording from 'alsa_input.usb-Focusrite_Scarlett_Solo_USB_Y7BAN85157F5AB-00.HiFi__Mic1__source' (default)
+09:00:21.454: [Loaded global audio device]: 'Mic/Aux'
+09:00:21.454: PipeWire initialized
+09:00:21.455: Failed to open file '/home/miku/Downloads/input-overlay-5.0.5-presets/mouse/mouse.png': No such file or directory
+09:00:21.455: gs_image_file_init_internal: Failed to load file '/home/miku/Downloads/input-overlay-5.0.5-presets/mouse/mouse.png'
+09:00:21.455: [input-overlay] Error: failed to load texture /home/miku/Downloads/input-overlay-5.0.5-presets/mouse/mouse.png
+09:00:21.455: v4l2-input: Start capture from /dev/video0
+09:00:21.455: v4l2-input: Unable to open device
+09:00:21.455: v4l2-input: Initialization failed, errno: No such file or directory
+09:00:21.456: Switched to scene 'Scene'
+09:00:21.456: ------------------------------------------------
+09:00:21.456: Loaded scenes:
+09:00:21.456: - scene 'Scene':
+09:00:21.456:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+09:00:21.456:     - source: 'Input Overlay' (input-overlay)
+09:00:21.456:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+09:00:21.456: ------------------------------------------------
+09:00:21.458: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+09:00:21.458: Deduplication logic is being applied to all monitored sources.
+09:00:21.487: ---------------------------------
+09:00:21.487: [x264 encoder: 'advanced_video_stream'] preset: veryfast
+09:00:21.488: [x264 encoder: 'advanced_video_stream'] settings:
+09:00:21.488: 	rate_control: CBR
+09:00:21.488: 	bitrate:      6000
+09:00:21.488: 	buffer size:  6000
+09:00:21.488: 	crf:          23
+09:00:21.488: 	fps_num:      30
+09:00:21.488: 	fps_den:      1
+09:00:21.488: 	width:        1280
+09:00:21.488: 	height:       720
+09:00:21.488: 	keyint:       60
+09:00:21.488: 
+09:00:21.488: [x264 encoder: 'advanced_video_stream'] custom settings: 
+09:00:21.488: 	scenecut = 0
+09:00:21.496: libfdk_aac encoder created
+09:00:21.496: libfdk_aac bitrate: 160, channels: 2
+09:00:21.496: ==== Replay Buffer Start ===========================================
+09:00:21.497: [pipewire] Screencast session created
+09:00:21.515: [input-overlay] Wayland is not supported by libuiohook. Keyboard an mouse hook will not work.
+09:00:21.515: 
+09:00:21.515: [input-overlay] Found new XBox One Controller with id 0
+09:00:21.526: [pipewire] Asking for monitor and window
+09:00:21.548: [pipewire] source selected, setting up screencast
+09:00:21.551: [pipewire] Server version: 1.6.10
+09:00:21.551: [pipewire] Library version: 1.6.10
+09:00:21.551: [pipewire] Header version: 1.6.8
+09:00:21.553: [pipewire] Created stream 0x55798ea67830
+09:00:21.553: [pipewire] Stream 0x55798ea67830 state: "connecting" (error: none)
+09:00:21.553: [pipewire] Playing stream 0x55798ea67830
+09:00:21.553: [pipewire] Stream 0x55798ea67830 state: "paused" (error: none)
+09:00:21.556: [pipewire] Negotiated format:
+09:00:21.556: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:00:21.556: [pipewire]     Modifier: 0x0
+09:00:21.556: [pipewire]     Size: 2560x1440
+09:00:21.556: [pipewire]     Framerate: 0/1
+09:00:21.570: [pipewire] Negotiated format:
+09:00:21.570: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:00:21.570: [pipewire]     Modifier: 0x200000000082305
+09:00:21.570: [pipewire]     Size: 2560x1440
+09:00:21.570: [pipewire]     Framerate: 0/1
+09:00:21.573: [pipewire] Stream 0x55798ea67830 state: "streaming" (error: none)
+09:00:22.002: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+09:00:22.002: 
+09:07:52.538: [pipewire] Stream 0x55798ea67830 state: "paused" (error: none)
+09:07:52.542: The Wayland connection broke. Did the Wayland compositor die?

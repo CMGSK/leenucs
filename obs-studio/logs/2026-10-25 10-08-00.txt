@@ -1,0 +1,368 @@
+10:08:00.800: Command Line Arguments: --startreplaybuffer --minimize-to-tray
+10:08:00.800: Platform: Wayland
+10:08:00.800: CPU Name: AMD Ryzen 5 5600 6-Core Processor
+10:08:00.800: CPU Speed: 3733.667MHz
+10:08:00.800: Physical Cores: 6, Logical Cores: 12
+10:08:00.800: Physical Memory: 31965MB Total, 14013MB Free
+10:08:00.800: Kernel Version: Linux 7.2.11-arch1-1
+10:08:00.800: Distribution: "CachyOS Linux" Unknown
+10:08:00.800: Desktop Environment: niri (niri)
+10:08:00.800: Session Type: wayland
+10:08:00.801: Current Date/Time: 2026-10-25, 10:08:00
+10:08:00.801: Browser Hardware Acceleration: true
+10:08:00.801: Qt Version: 6.12.0 (runtime), 6.11.1 (compiled)
+10:08:00.801: Portable mode: false
+10:08:00.836: OBS 32.2.2 (linux)
+10:08:00.836: ---------------------------------
+10:08:00.837: ---------------------------------
+10:08:00.837: audio settings reset:
+10:08:00.837: 	samples per sec: 48000
+10:08:00.837: 	speakers:        2
+10:08:00.837: 	max buffering:   960 milliseconds
+10:08:00.837: 	buffering type:  dynamically increasing
+10:08:00.838: ---------------------------------
+10:08:00.838: Initializing OpenGL...
+10:08:00.838: Using EGL/Wayland
+10:08:00.869: Initialized EGL 1.5
+10:08:00.881: Loading up OpenGL on adapter AMD AMD Radeon RX 9070 XT (radeonsi, gfx1201, ACO, DRM 3.64, 7.2.11-arch1-1)
+10:08:00.881: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.2.5-arch3.1, shading language 4.60
+10:08:00.908: ---------------------------------
+10:08:00.908: video settings reset:
+10:08:00.908: 	base resolution:   1920x1080
+10:08:00.908: 	output resolution: 1280x720
+10:08:00.908: 	downscale filter:  Bicubic
+10:08:00.908: 	fps:               30/1
+10:08:00.908: 	format:            NV12
+10:08:00.908: 	YUV mode:          sRGB/Partial
+10:08:00.908: NV12 texture support enabled
+10:08:00.908: P010 texture support not available
+10:08:00.911: Audio monitoring device:
+10:08:00.911: 	name: Default
+10:08:00.911: 	id: default
+10:08:00.911: ---------------------------------
+10:08:00.912: Failed to load 'en-US' text for module: 'decklink-captions.so'
+10:08:00.913: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+10:08:00.913: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+10:08:00.913: Failed to initialize module 'decklink.so'
+10:08:01.013: [input-overlay] Loading v5.0.6-HEAD (a2d856e) build time 2025.04.06 13:42
+10:08:01.014: DEPRECATION: obs_frontend_get_global_config is deprecated. Use obs_frontend_get_app_config or obs_frontend_get_user_config explicitly instead.
+10:08:01.014: [input-overlay] Initializing SDL2 for gamepad input (compile-time: 2.0.20, run-time:  2.32.74)
+10:08:01.032: [pipewire] Available capture sources:
+10:08:01.032: [pipewire]     - Monitor source
+10:08:01.032: [pipewire]     - Window source
+10:08:01.037: v4l2loopback not installed, virtual camera not registered
+10:08:01.057: VAAPI: API version 1.24
+10:08:01.057: FFmpeg VAAPI H264 encoding supported
+10:08:01.061: FFmpeg VAAPI AV1 encoding supported
+10:08:01.065: FFmpeg VAAPI HEVC encoding supported
+10:08:01.067: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+10:08:01.067: 
+10:08:01.067: NVENC not supported
+10:08:01.067: Failed to initialize module 'obs-nvenc.so'
+10:08:01.086: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.7.4 | RPC Version: 1)
+10:08:01.086: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.11.1 | Qt version (run-time): 6.12.0
+10:08:01.086: [obs-websocket] [obs_module_load] Linked ASIO Version: 103802
+10:08:01.090: [obs-websocket] [obs_module_load] Module loaded.
+10:08:01.092: ---------------------------------
+10:08:01.092:   Loaded Modules:
+10:08:01.092:     text-freetype2.so
+10:08:01.092:     rtmp-services.so
+10:08:01.092:     obs-x264.so
+10:08:01.092:     obs-websocket.so
+10:08:01.092:     obs-webrtc.so
+10:08:01.092:     obs-vst.so
+10:08:01.092:     obs-transitions.so
+10:08:01.092:     obs-qsv11.so
+10:08:01.092:     obs-outputs.so
+10:08:01.092:     obs-libfdk.so
+10:08:01.092:     obs-filters.so
+10:08:01.092:     obs-ffmpeg.so
+10:08:01.092:     linux-v4l2.so
+10:08:01.092:     linux-pulseaudio.so
+10:08:01.092:     linux-pipewire.so
+10:08:01.092:     linux-jack.so
+10:08:01.092:     linux-capture.so
+10:08:01.092:     linux-alsa.so
+10:08:01.092:     input-overlay.so
+10:08:01.092:     image-source.so
+10:08:01.092:     frontend-tools.so
+10:08:01.092:     decklink-output-ui.so
+10:08:01.092:     decklink-captions.so
+10:08:01.092: ---------------------------------
+10:08:01.092: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+10:08:01.093: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+10:08:01.093: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+10:08:01.093: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 192.168.1.191
+10:08:01.093: ---------------------------------
+10:08:01.093: Available Encoders:
+10:08:01.093:   Video Encoders:
+10:08:01.093: 	- ffmpeg_svt_av1 (SVT-AV1)
+10:08:01.093: 	- ffmpeg_aom_av1 (AOM AV1)
+10:08:01.093: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+10:08:01.093: 	- av1_ffmpeg_vaapi_tex (FFmpeg VAAPI AV1)
+10:08:01.093: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+10:08:01.093: 	- obs_x264 (x264)
+10:08:01.093:   Audio Encoders:
+10:08:01.093: 	- ffmpeg_aac (FFmpeg AAC)
+10:08:01.093: 	- ffmpeg_opus (FFmpeg Opus)
+10:08:01.093: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+10:08:01.093: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+10:08:01.093: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+10:08:01.093: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+10:08:01.093: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+10:08:01.093: 	- libfdk_aac (libfdk AAC)
+10:08:01.093: ==== Startup complete ===============================================
+10:08:01.109: QObject::connect: No such slot io_settings_dialog::RefreshUi()
+10:08:01.109: QObject::connect:  (receiver name: 'io_config_dialog')
+10:08:01.158: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+10:08:01.159: All scene data cleared
+10:08:01.159: ------------------------------------------------
+10:08:01.164: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+10:08:01.164: Deduplication logic is being applied to all monitored sources.
+10:08:01.164: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.10) 15.0.0'
+10:08:01.165: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+10:08:01.165: pulse-input: Started recording from 'alsa_output.usb-Focusrite_Scarlett_Solo_USB_Y7BAN85157F5AB-00.HiFi__Line__sink.monitor' (default)
+10:08:01.165: [Loaded global audio device]: 'Desktop Audio'
+10:08:01.165: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.10) 15.0.0'
+10:08:01.165: pulse-input: Audio format: float32le, 48000 Hz, 1 channels
+10:08:01.165: pulse-input: Started recording from 'alsa_input.usb-Focusrite_Scarlett_Solo_USB_Y7BAN85157F5AB-00.HiFi__Mic1__source' (default)
+10:08:01.165: [Loaded global audio device]: 'Mic/Aux'
+10:08:01.165: PipeWire initialized
+10:08:01.165: Failed to open file '/home/miku/Downloads/input-overlay-5.0.5-presets/mouse/mouse.png': No such file or directory
+10:08:01.165: gs_image_file_init_internal: Failed to load file '/home/miku/Downloads/input-overlay-5.0.5-presets/mouse/mouse.png'
+10:08:01.165: [input-overlay] Error: failed to load texture /home/miku/Downloads/input-overlay-5.0.5-presets/mouse/mouse.png
+10:08:01.165: v4l2-input: Start capture from /dev/video0
+10:08:01.166: v4l2-input: Unable to open device
+10:08:01.166: v4l2-input: Initialization failed, errno: No such file or directory
+10:08:01.166: Switched to scene 'Scene'
+10:08:01.166: ------------------------------------------------
+10:08:01.166: Loaded scenes:
+10:08:01.166: - scene 'Scene':
+10:08:01.166:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+10:08:01.166:     - source: 'Input Overlay' (input-overlay)
+10:08:01.166:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+10:08:01.166: ------------------------------------------------
+10:08:01.184: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+10:08:01.184: Deduplication logic is being applied to all monitored sources.
+10:08:01.200: ---------------------------------
+10:08:01.200: [x264 encoder: 'advanced_video_stream'] preset: veryfast
+10:08:01.203: [x264 encoder: 'advanced_video_stream'] settings:
+10:08:01.203: 	rate_control: CBR
+10:08:01.203: 	bitrate:      6000
+10:08:01.203: 	buffer size:  6000
+10:08:01.203: 	crf:          23
+10:08:01.203: 	fps_num:      30
+10:08:01.203: 	fps_den:      1
+10:08:01.203: 	width:        1280
+10:08:01.203: 	height:       720
+10:08:01.203: 	keyint:       60
+10:08:01.203: 
+10:08:01.203: [x264 encoder: 'advanced_video_stream'] custom settings: 
+10:08:01.203: 	scenecut = 0
+10:08:01.212: libfdk_aac encoder created
+10:08:01.212: libfdk_aac bitrate: 160, channels: 2
+10:08:01.213: ==== Replay Buffer Start ===========================================
+10:08:01.216: [pipewire] Screencast session created
+10:08:01.238: [pipewire] Asking for monitor and window
+10:08:01.259: [pipewire] source selected, setting up screencast
+10:08:01.263: [pipewire] Server version: 1.6.10
+10:08:01.263: [pipewire] Library version: 1.6.10
+10:08:01.263: [pipewire] Header version: 1.6.8
+10:08:01.263: [pipewire] Created stream 0x5636f748c040
+10:08:01.263: [pipewire] Stream 0x5636f748c040 state: "connecting" (error: none)
+10:08:01.263: [pipewire] Playing stream 0x5636f748c040
+10:08:01.264: [pipewire] Stream 0x5636f748c040 state: "paused" (error: none)
+10:08:01.268: [pipewire] Negotiated format:
+10:08:01.268: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+10:08:01.268: [pipewire]     Modifier: 0x0
+10:08:01.268: [pipewire]     Size: 2560x1440
+10:08:01.268: [pipewire]     Framerate: 0/1
+10:08:01.268: [pipewire] Negotiated format:
+10:08:01.268: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+10:08:01.268: [pipewire]     Modifier: 0x200000000082305
+10:08:01.268: [pipewire]     Size: 2560x1440
+10:08:01.268: [pipewire]     Framerate: 0/1
+10:08:01.272: [pipewire] Stream 0x5636f748c040 state: "streaming" (error: none)
+10:08:01.337: [input-overlay] Wayland is not supported by libuiohook. Keyboard an mouse hook will not work.
+10:08:01.337: 
+10:08:01.337: [input-overlay] Found new XBox One Controller with id 0
+10:08:01.712: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+10:08:01.712: 
+10:08:09.567: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:48502
+10:08:09.576: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:48502` has disconnected with code `1000` and reason: 
+10:08:10.703: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/miku/Replay 2026-10-25 10-08-10.mp4'
+10:09:14.685: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:39588
+10:09:14.737: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:39588` has disconnected with code `1000` and reason: 
+10:09:15.803: Output 'Replay Buffer': stopping
+10:09:15.803: Output 'Replay Buffer': Total frames output: 2205
+10:09:15.803: Output 'Replay Buffer': Total drawn frames: 2237
+10:09:15.803: ==== Replay Buffer Stop ============================================
+10:09:15.808: libfdk_aac encoder destroyed
+10:09:25.320: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:37546
+10:09:25.327: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:37546` has disconnected with code `1000` and reason: 
+10:09:25.328: ---------------------------------
+10:09:25.328: [x264 encoder: 'advanced_video_stream'] preset: veryfast
+10:09:25.328: [x264 encoder: 'advanced_video_stream'] settings:
+10:09:25.328: 	rate_control: CBR
+10:09:25.328: 	bitrate:      6000
+10:09:25.328: 	buffer size:  6000
+10:09:25.328: 	crf:          23
+10:09:25.328: 	fps_num:      30
+10:09:25.328: 	fps_den:      1
+10:09:25.328: 	width:        1280
+10:09:25.328: 	height:       720
+10:09:25.328: 	keyint:       60
+10:09:25.328: 
+10:09:25.328: [x264 encoder: 'advanced_video_stream'] custom settings: 
+10:09:25.328: 	scenecut = 0
+10:09:25.333: libfdk_aac encoder created
+10:09:25.333: libfdk_aac bitrate: 160, channels: 2
+10:09:25.334: ==== Replay Buffer Start ===========================================
+10:16:16.864: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:57714
+10:16:16.871: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:57714` has disconnected with code `1000` and reason: 
+10:16:18.015: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/miku/Replay 2026-10-25 10-16-17.mp4'
+10:17:27.305: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:45236
+10:17:28.432: Output 'Replay Buffer': stopping
+10:17:28.432: Output 'Replay Buffer': Total frames output: 14461
+10:17:28.432: Output 'Replay Buffer': Total drawn frames: 14493
+10:17:28.433: ==== Replay Buffer Stop ============================================
+10:17:28.435: libfdk_aac encoder destroyed
+10:17:28.514: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:45236` has disconnected with code `1000` and reason: 
+10:17:28.515: ---------------------------------
+10:17:28.515: [x264 encoder: 'advanced_video_stream'] preset: veryfast
+10:17:28.515: [x264 encoder: 'advanced_video_stream'] settings:
+10:17:28.515: 	rate_control: CBR
+10:17:28.515: 	bitrate:      6000
+10:17:28.515: 	buffer size:  6000
+10:17:28.515: 	crf:          23
+10:17:28.515: 	fps_num:      30
+10:17:28.515: 	fps_den:      1
+10:17:28.515: 	width:        1280
+10:17:28.515: 	height:       720
+10:17:28.515: 	keyint:       60
+10:17:28.515: 
+10:17:28.515: [x264 encoder: 'advanced_video_stream'] custom settings: 
+10:17:28.515: 	scenecut = 0
+10:17:28.520: libfdk_aac encoder created
+10:17:28.520: libfdk_aac bitrate: 160, channels: 2
+10:17:28.521: ==== Replay Buffer Start ===========================================
+10:18:13.125: Settings changed (general)
+10:18:13.125: ------------------------------------------------
+10:52:08.334: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:44056
+10:52:08.342: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:44056` has disconnected with code `1000` and reason: 
+10:52:09.525: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/miku/Videos/obs-recordings/Replay 2026-10-25 10-52-09.mp4'
+11:14:30.118: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:47770
+11:14:30.127: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:47770` has disconnected with code `1000` and reason: 
+11:14:31.308: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/miku/Videos/obs-recordings/Replay 2026-10-25 11-14-31.mp4'
+11:25:11.110: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:35146
+11:25:11.120: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:35146` has disconnected with code `1000` and reason: 
+11:25:12.311: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/miku/Videos/obs-recordings/Replay 2026-10-25 11-25-12.mp4'
+13:24:17.731: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54694
+13:24:17.738: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54694` has disconnected with code `1000` and reason: 
+13:24:18.891: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/miku/Videos/obs-recordings/Replay 2026-10-25 13-24-18.mp4'
+16:36:37.488: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+16:36:37.488: 
+20:45:55.982: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:60730
+20:45:55.991: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:60730` has disconnected with code `1000` and reason: 
+20:45:57.267: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/miku/Videos/obs-recordings/Replay 2026-10-25 20-45-57.mp4'
+22:46:33.482: ==== Shutting down ==================================================
+22:46:33.495: pulse-input: Stopped recording from 'alsa_output.usb-Focusrite_Scarlett_Solo_USB_Y7BAN85157F5AB-00.HiFi__Line__sink.monitor'
+22:46:33.495: pulse-input: Got 1820478 packets with 2184573600 frames
+22:46:33.495: Deduplication logic stopped.
+22:46:33.495: pulse-input: Stopped recording from 'alsa_input.usb-Focusrite_Scarlett_Solo_USB_Y7BAN85157F5AB-00.HiFi__Mic1__source'
+22:46:33.495: pulse-input: Got 1820478 packets with 2184573600 frames
+22:46:33.498: [pipewire] Stream 0x5636f748c040 state: "paused" (error: none)
+22:46:33.498: [pipewire] Stream 0x5636f748c040 state: "unconnected" (error: none)
+22:46:33.608: All scene data cleared
+22:46:33.608: ------------------------------------------------
+22:46:33.615: Output 'Replay Buffer': stopping
+22:46:33.615: Output 'Replay Buffer': Total frames output: 1348319
+22:46:33.615: Output 'Replay Buffer': Total drawn frames: 1348188 (1348353 attempted)
+22:46:33.615: Output 'Replay Buffer': Number of lagged frames due to rendering lag/stalls: 165 (0.0%)
+22:46:33.821: libfdk_aac encoder destroyed
+22:46:33.825: Tried to call obs_frontend_remove_event_callback with no callbacks!
+22:46:33.927: [obs-websocket] [obs_module_unload] Shutting down...
+22:46:33.927: [obs-websocket] [WebSocketServer::ServerRunner] IO thread exited.
+22:46:33.927: [obs-websocket] [WebSocketServer::Stop] Server stopped successfully
+22:46:33.927: Tried to call obs_frontend_remove_event_callback with no callbacks!
+22:46:33.927: [obs-websocket] [obs_module_unload] Finished shutting down.
+22:46:33.976: [Scripting] Total detached callbacks: 0
+22:46:33.976: Freeing OBS context data
+22:46:33.997: == Profiler Results =============================
+22:46:33.997: run_program_init: 434.894 ms
+22:46:33.997:  ┣OBSApp::AppInit: 15.72 ms
+22:46:33.997:  ┃ ┗OBSApp::InitLocale: 1.688 ms
+22:46:33.997:  ┗OBSApp::OBSInit: 396.226 ms
+22:46:33.997:    ┣obs_startup: 1.279 ms
+22:46:33.997:    ┗OBSBasic::OBSInit: 359.916 ms
+22:46:33.997:      ┣OBSBasic::InitBasicConfig: 0.44 ms
+22:46:33.997:      ┣OBSBasic::ResetAudio: 0.274 ms
+22:46:33.997:      ┣OBSBasic::ResetVideo: 73.638 ms
+22:46:33.997:      ┃ ┗obs_init_graphics: 70.794 ms
+22:46:33.997:      ┃   ┗shader compilation: 26.216 ms
+22:46:33.997:      ┣OBSBasic::InitOBSCallbacks: 0.003 ms
+22:46:33.997:      ┣OBSBasic::InitHotkeys: 0.016 ms
+22:46:33.997:      ┣obs_load_all_modules2: 180.583 ms
+22:46:33.997:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+22:46:33.997:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+22:46:33.997:      ┃ ┣obs_init_module(decklink.so): 0.037 ms
+22:46:33.997:      ┃ ┣obs_init_module(frontend-tools.so): 94.671 ms
+22:46:33.997:      ┃ ┣obs_init_module(image-source.so): 0.004 ms
+22:46:33.997:      ┃ ┣obs_init_module(input-overlay.so): 0.091 ms
+22:46:33.997:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+22:46:33.997:      ┃ ┣obs_init_module(linux-capture.so): 0 ms
+22:46:33.997:      ┃ ┣obs_init_module(linux-jack.so): 0.001 ms
+22:46:33.997:      ┃ ┣obs_init_module(linux-pipewire.so): 11.92 ms
+22:46:33.997:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.001 ms
+22:46:33.997:      ┃ ┣obs_init_module(linux-v4l2.so): 3.397 ms
+22:46:33.997:      ┃ ┣obs_init_module(obs-ffmpeg.so): 11.609 ms
+22:46:33.997:      ┃ ┣obs_init_module(obs-filters.so): 0.01 ms
+22:46:33.997:      ┃ ┣obs_init_module(obs-libfdk.so): 0 ms
+22:46:33.997:      ┃ ┣obs_init_module(obs-nvenc.so): 0.042 ms
+22:46:33.997:      ┃ ┃ ┗nvenc_check: 0.031 ms
+22:46:33.997:      ┃ ┣obs_init_module(obs-outputs.so): 0.002 ms
+22:46:33.997:      ┃ ┣obs_init_module(obs-qsv11.so): 8.383 ms
+22:46:33.997:      ┃ ┣obs_init_module(obs-transitions.so): 0.004 ms
+22:46:33.997:      ┃ ┣obs_init_module(obs-vst.so): 0.001 ms
+22:46:33.997:      ┃ ┣obs_init_module(obs-webrtc.so): 0.002 ms
+22:46:33.997:      ┃ ┣obs_init_module(obs-websocket.so): 4.213 ms
+22:46:33.997:      ┃ ┣obs_init_module(obs-x264.so): 0.001 ms
+22:46:33.997:      ┃ ┣obs_init_module(rtmp-services.so): 0.226 ms
+22:46:33.997:      ┃ ┗obs_init_module(text-freetype2.so): 0.005 ms
+22:46:33.997:      ┣OBSBasic::InitService: 0.566 ms
+22:46:33.997:      ┣OBSBasic::ResetOutputs: 0.074 ms
+22:46:33.997:      ┣OBSBasic::CreateHotkeys: 0.013 ms
+22:46:33.997:      ┣OBSBasic::InitPrimitives: 0.256 ms
+22:46:33.997:      ┗OBSBasic::Load: 75.448 ms
+22:46:33.997: obs_hotkey_thread(25 ms): min=0 ms, median=0 ms, max=0.572 ms, 99th percentile=0.001 ms, 100% below 25 ms
+22:46:33.997: audio_thread(Audio): min=0.01 ms, median=0.201 ms, max=746.097 ms, 99th percentile=0.381 ms
+22:46:33.997:  ┗receive_audio: min=0.002 ms, median=0.166 ms, max=99.4 ms, 99th percentile=0.291 ms
+22:46:33.997:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.645 ms, 99th percentile=0.002 ms
+22:46:33.997:    ┗do_encode: min=0.033 ms, median=0.164 ms, max=99.397 ms, 99th percentile=0.288 ms
+22:46:33.997:      ┣encode(Track1): min=0.031 ms, median=0.161 ms, max=7.985 ms, 99th percentile=0.282 ms
+22:46:33.997:      ┗send_packet: min=0 ms, median=0.003 ms, max=99.325 ms, 99th percentile=0.018 ms
+22:46:33.997: obs_graphics_thread(33.3333 ms): min=0.099 ms, median=0.32 ms, max=758.014 ms, 99th percentile=0.65 ms, 99.9923% below 33.333 ms
+22:46:33.997:  ┣tick_sources: min=0 ms, median=0.007 ms, max=8.647 ms, 99th percentile=0.015 ms
+22:46:33.997:  ┣output_frame: min=0.084 ms, median=0.297 ms, max=757.985 ms, 99th percentile=0.601 ms
+22:46:33.997:  ┃ ┣gs_context(video->graphics): min=0.084 ms, median=0.192 ms, max=757.86 ms, 99th percentile=0.382 ms
+22:46:33.997:  ┃ ┃ ┣render_video: min=0.012 ms, median=0.089 ms, max=9.928 ms, 99th percentile=0.186 ms
+22:46:33.997:  ┃ ┃ ┃ ┣render_main_texture: min=0.009 ms, median=0.043 ms, max=9.845 ms, 99th percentile=0.099 ms
+22:46:33.997:  ┃ ┃ ┃ ┣render_output_texture: min=0.007 ms, median=0.012 ms, max=6.787 ms, 99th percentile=0.029 ms
+22:46:33.997:  ┃ ┃ ┃ ┣render_convert_texture: min=0.011 ms, median=0.018 ms, max=2.858 ms, 99th percentile=0.042 ms
+22:46:33.997:  ┃ ┃ ┃ ┗stage_output_texture: min=0.006 ms, median=0.012 ms, max=2.442 ms, 99th percentile=0.027 ms
+22:46:33.997:  ┃ ┃ ┣gs_flush: min=0.001 ms, median=0.062 ms, max=27.744 ms, 99th percentile=0.117 ms
+22:46:33.997:  ┃ ┃ ┗download_frame: min=0 ms, median=0.035 ms, max=757.691 ms, 99th percentile=0.08 ms
+22:46:33.997:  ┃ ┗output_video_data: min=0.081 ms, median=0.103 ms, max=9.918 ms, 99th percentile=0.236 ms
+22:46:33.997:  ┗render_displays: min=0.002 ms, median=0.005 ms, max=11.941 ms, 99th percentile=0.156 ms
+22:46:33.997: video_thread(video): min=0.287 ms, median=0.423 ms, max=116.126 ms, 99th percentile=0.811 ms
+22:46:33.997:  ┗receive_video: min=0.286 ms, median=0.422 ms, max=116.124 ms, 99th percentile=0.808 ms
+22:46:33.997:    ┗do_encode: min=0.286 ms, median=0.422 ms, max=116.124 ms, 99th percentile=0.807 ms
+22:46:33.997:      ┣encode(advanced_video_stream): min=0.283 ms, median=0.415 ms, max=76.059 ms, 99th percentile=0.795 ms
+22:46:33.997:      ┗send_packet: min=0.001 ms, median=0.005 ms, max=110.975 ms, 99th percentile=0.019 ms
+22:46:33.997: OBSBasicSettings::LoadThemeList: min=0.021 ms, median=0.021 ms, max=0.023 ms, 99th percentile=0.023 ms
+22:46:33.997: =================================================
+22:46:33.997: == Profiler Time Between Calls ==================
+22:46:33.997: obs_hotkey_thread(25 ms): min=25.008 ms, median=25.06 ms, max=46.621 ms, 99.8779% within ±2% of 25 ms (0% lower, 0.122136% higher)
+22:46:33.997: obs_graphics_thread(33.3333 ms): min=2.494 ms, median=33.333 ms, max=758.022 ms, 99.8506% within ±2% of 33.333 ms (0.0728818% lower, 0.076471% higher)
+22:46:33.997: =================================================
+22:46:34.017: Number of memory leaks: 0
